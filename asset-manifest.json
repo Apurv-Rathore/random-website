@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/thelegend2710/random-website/static/css/main.9d14b846.chunk.css",
-    "main.js": "/thelegend2710/random-website/static/js/main.2ed99cd0.chunk.js",
-    "main.js.map": "/thelegend2710/random-website/static/js/main.2ed99cd0.chunk.js.map",
-    "runtime-main.js": "/thelegend2710/random-website/static/js/runtime-main.4e0b0813.js",
-    "runtime-main.js.map": "/thelegend2710/random-website/static/js/runtime-main.4e0b0813.js.map",
-    "static/js/2.8dd6bb38.chunk.js": "/thelegend2710/random-website/static/js/2.8dd6bb38.chunk.js",
-    "static/js/2.8dd6bb38.chunk.js.map": "/thelegend2710/random-website/static/js/2.8dd6bb38.chunk.js.map",
-    "static/js/3.2346f0c7.chunk.js": "/thelegend2710/random-website/static/js/3.2346f0c7.chunk.js",
-    "static/js/3.2346f0c7.chunk.js.map": "/thelegend2710/random-website/static/js/3.2346f0c7.chunk.js.map",
-    "index.html": "/thelegend2710/random-website/index.html",
-    "static/css/main.9d14b846.chunk.css.map": "/thelegend2710/random-website/static/css/main.9d14b846.chunk.css.map",
-    "static/js/2.8dd6bb38.chunk.js.LICENSE.txt": "/thelegend2710/random-website/static/js/2.8dd6bb38.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/thelegend2710/random-website/static/media/logo.6ce24c58.svg"
+    "main.css": "/random-website/static/css/main.9d14b846.chunk.css",
+    "main.js": "/random-website/static/js/main.2ed99cd0.chunk.js",
+    "main.js.map": "/random-website/static/js/main.2ed99cd0.chunk.js.map",
+    "runtime-main.js": "/random-website/static/js/runtime-main.3f8cf635.js",
+    "runtime-main.js.map": "/random-website/static/js/runtime-main.3f8cf635.js.map",
+    "static/js/2.8dd6bb38.chunk.js": "/random-website/static/js/2.8dd6bb38.chunk.js",
+    "static/js/2.8dd6bb38.chunk.js.map": "/random-website/static/js/2.8dd6bb38.chunk.js.map",
+    "static/js/3.2346f0c7.chunk.js": "/random-website/static/js/3.2346f0c7.chunk.js",
+    "static/js/3.2346f0c7.chunk.js.map": "/random-website/static/js/3.2346f0c7.chunk.js.map",
+    "index.html": "/random-website/index.html",
+    "static/css/main.9d14b846.chunk.css.map": "/random-website/static/css/main.9d14b846.chunk.css.map",
+    "static/js/2.8dd6bb38.chunk.js.LICENSE.txt": "/random-website/static/js/2.8dd6bb38.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/random-website/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e0b0813.js",
+    "static/js/runtime-main.3f8cf635.js",
     "static/js/2.8dd6bb38.chunk.js",
     "static/css/main.9d14b846.chunk.css",
     "static/js/main.2ed99cd0.chunk.js"
