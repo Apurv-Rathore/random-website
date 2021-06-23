@@ -196,3 +196,11 @@ button:hover {
   width: 70%;
   font-family: 'Comfortaa', sans-serif;   
 }
+
+
+.footer {
+  flex-shrink: 0;
+  text-align: center;
+  background-color: tomato;
+  color: white;
+}
