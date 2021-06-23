@@ -7,12 +7,7 @@ function App() {
     <div className="App">
       <MainBody />
       <footer className="footer" style={{position:'absolute',top:"45vh",width:'100vw',alignContent:'center'}}>
-        <span style={{paddingRight:"100px"}}>
-        To advertise
-        </span>
-
-      
-
+        
         <span>
         
         <a href="mailto:developerapurv@gmail.com" style={{marginLeft:"-100px"}}><img src={gmail} style={{height:"30px",width:"40px"}} alt="gfs" /></a>
