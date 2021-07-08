@@ -17,12 +17,10 @@ class MainBody extends React.Component {
 //     let Links = Randomlink();
 //     this.setState({Links})
 //     this.LINKK = Links;
-//     console.log("fuck",this.state,Links)
 //   }
   handleClick = () => {
     let Links = Randomlink();
     let index = Math.floor(Math.random() * Links.length) ;
-    console.log("fuck",Links[index])
     window.open(Links[index])
 
   }
