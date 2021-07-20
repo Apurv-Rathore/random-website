@@ -57,7 +57,7 @@ function App() {
         </div>
         <footer 
         style={{position:"absolute",backgroundColor:"rgb(0, 194, 253)",
-        top:"73vh",width:"100vw"}}>
+        top:"72vh",width:"100vw"}}>
           {/* Made with <span style="color: #e25555;">&#9829;</span> in Switzerland */}
           {/* <span>
     Made with <i class="fa fa-heart pulse"></i> in <a href="https://www.google.de/maps/place/Augsburger+Puppenkiste/@48.360357,10.903245,17z/data=!3m1!4b1!4m2!3m1!1s0x479e98006610a511:0x73ac6b9f80c4048f" target="_blank">Auxburg</a>
