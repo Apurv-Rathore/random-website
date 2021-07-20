@@ -34,7 +34,7 @@ class MainBody extends React.Component {
       >
         <div className="text-container" >
           <span style={{ fontSize: "40px",color: "#black" }}> Click to Go On </span>
-          <span style={{ color: "red",fontSize: "90px" }}>Random</span>
+          <span style={{ color: "red",fontSize: "60px" }}>Random</span>
           <br />
           <br />
           <br />
