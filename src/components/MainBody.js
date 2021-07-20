@@ -31,23 +31,23 @@ class MainBody extends React.Component {
     return (
       <div
         className="container"
-        style={{ marginTop: "50vh", fontFamily: "Kirang Haerang,cursive"}}
+        style={{ marginTop: "38vh", fontFamily: "Kirang Haerang,cursive"}}
       >
         <div className="text-container" >
-          <span style={{ fontSize: "60px" }}> Click to Go On </span>
-          <span style={{ color: "red" }}>Random</span>
+          <span style={{ fontSize: "40px",color: "#black" }}> Click to Go On </span>
+          <span style={{ color: "red",fontSize: "90px" }}>Random</span>
           <br />
           <br />
           <br />
           <br />
-          <span style={{ paddingTop: 10, color: "teal" }}>
+          <span style={{ paddingTop: 10, color: "#" }}>
             {" "}
-            <span style={{ fontSize: "80px" }}> USELESS </span>
+            <span style={{ fontSize: "60px" }}> USELESS </span>
             <br />
             <br />
             <br />
             <br />
-            <span style={{ color: "red",fontSize: "90px" }}>Website</span>
+            <span style={{ color: "red",fontSize: "80px" }}>Website</span>
           </span>
           <br />
           <br />

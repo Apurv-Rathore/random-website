@@ -76,6 +76,8 @@
 body {
 font: 13px/22px Helvetica;
   filter: brightness(100%)!important;
+  background-color: #607af0;
+  background-image: url("https://i.imgur.com/RDT7bdJ.png");
 }
 
 
@@ -90,7 +92,7 @@ button{
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 26px;
   background-color: white;
   color: black;
   border: 2px solid black; /* Green */
@@ -201,7 +203,7 @@ button:hover {
 .footer {
   flex-shrink: 0;
   text-align: center;
-  background-color: tomato;
+  background-color: #1b1b1b;
   color: white;
 }
 
