@@ -19,7 +19,6 @@ class MainBody extends React.Component {
 //     let Links = Randomlink();
 //     this.setState({Links})
 //     this.LINKK = Links;
-//     console.log("fuck",this.state,Links)
 //   }
   handleClick = () => {
     let Links = Randomlink();
