@@ -25,7 +25,6 @@ class MainBody extends React.Component {
     let Links = Randomlink();
     let index = Math.floor(Math.random() * Links.length) ;
     window.open(Links[index])
-
   }
   
   render() {

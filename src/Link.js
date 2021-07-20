@@ -83,7 +83,6 @@ let anotherURL = ["https://longdogechallenge.com/",
   "https://dadlaughbutton.com/",
   "https://www.bouncingdvdlogo.com/",
   "https://remoji.com/",
-  "https://hardcorevide.blogspot.com",
   "http://papertoilet.com/"]
   Url[0] = "http://alien-ufo-research.com/reptilians/";
   Url[1] = "https://www.flightradar24.com/";
