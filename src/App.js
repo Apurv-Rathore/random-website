@@ -34,7 +34,11 @@ function App() {
             marginTop: "80px",
           }}
         >
-          <span style={{fontFamily: "Kirang Haerang,cursive", fontSize:"25px"}}>To advertise, Mail me</span>
+          <span
+            style={{ fontFamily: "Kirang Haerang,cursive", fontSize: "25px" }}
+          >
+            To advertise, Mail me
+          </span>
           <br />
           {/* <br />
           <br />
@@ -44,9 +48,7 @@ function App() {
           <br />
           <br /><br /> */}
           <span>
-            <a
-              href="mailto:developerapurv@gmail.com"
-            >
+            <a href="mailto:developerapurv@gmail.com">
               <img
                 src={gmail}
                 style={{ height: "40px", width: "50px" }}
@@ -55,18 +57,23 @@ function App() {
             </a>
           </span>
         </div>
-        <footer 
-        style={{position:"absolute",backgroundColor:"rgb(0, 194, 253)",
-        top:"72vh",width:"100vw"}}>
-          {/* Made with <span style="color: #e25555;">&#9829;</span> in Switzerland */}
-          {/* <span>
-    Made with <i class="fa fa-heart pulse"></i> in <a href="https://www.google.de/maps/place/Augsburger+Puppenkiste/@48.360357,10.903245,17z/data=!3m1!4b1!4m2!3m1!1s0x479e98006610a511:0x73ac6b9f80c4048f" target="_blank">Auxburg</a>
-</span> */}
-
-<span style={{fontFamily: "Kirang Haerang,cursive"}}>
-  
-Made with <span style={{color:"red"}}>♥</span>  in India
-</span>
+        <div style={{backgroundColor:"black",position:"absolute",top:"-180px",height:"20px",width:"100vw"}}>
+        </div>
+        <div style={{backgroundColor:"black",position:"absolute",top:"-180px",height:"100vh",width:"10px"}}>
+        </div>
+        <footer
+          style={{
+            position: "absolute",
+            backgroundColor: "rgb(0, 194, 253)",
+            top: "72vh",
+            width: "100vw",
+          }}
+        >
+          <span
+            style={{ fontFamily: "Kirang Haerang,cursive", fontSize: "17px" }}
+          >
+            Made with <span style={{ color: "red" }}>♥</span> in India
+          </span>
         </footer>
         {/* <footer
           className="footer"
