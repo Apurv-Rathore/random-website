@@ -57,13 +57,13 @@
 
 .text-container{
   opacity: 1;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  /* top: 50%;
+  left: 50%; */
+  /* transform: translate(-50%, -50%); */
   z-index: 1;
   font-size:50px;
   width: 100%;
+  margin-top: -100px;
   font-family: 'Shadows Into Light', 'cursive';
   font-weight: bold;
 }
@@ -204,3 +204,16 @@ button:hover {
   background-color: tomato;
   color: white;
 }
+
+
+#background-video{
+
+  height: 100%;
+  width: 100%;
+  float: left;
+  top: 0;
+  padding: none;
+  position: fixed; /* optional depending on what you want to do in your app */
+  
+  
+  }

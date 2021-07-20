@@ -1,10 +1,12 @@
 import React, { Component ,setState} from "react";
 import Randomlink from "../Link";
+import WeirdAnimatedGifs from "../icons/WeirdAnimatedGifs.gif"
 class MainBody extends React.Component {
     constructor(props){
         super(props);
         this.state={
-            Links:[]
+            Links:[],
+            url:"www.google.com"
         }
         
     //     this.handleClick.bind(this);
@@ -22,7 +24,6 @@ class MainBody extends React.Component {
   handleClick = () => {
     let Links = Randomlink();
     let index = Math.floor(Math.random() * Links.length) ;
-    console.log("fuck",Links[index])
     window.open(Links[index])
 
   }
@@ -33,7 +34,7 @@ class MainBody extends React.Component {
         className="container"
         style={{ marginTop: "50vh", fontFamily: "Kirang Haerang,cursive"}}
       >
-        <div className="text-container">
+        <div className="text-container" >
           <span style={{ fontSize: "60px" }}> Click to Go On </span>
           <span style={{ color: "red" }}>Random</span>
           <br />
@@ -61,7 +62,9 @@ class MainBody extends React.Component {
             CLICK HERE{" "}
           </button>
         </div>
+        
       </div>
+      
     );
   }
 }
